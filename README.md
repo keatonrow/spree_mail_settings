@@ -10,7 +10,7 @@
 Add spree_mail_settings to your `Gemfile`:
 
 ```ruby
-gem 'spree_mail_settings', github: 'spree-contrib/spree_mail_settings', branch: 'master'
+gem 'spree_mail_settings', github: 'keatonrow/spree_mail_settings', branch: 'master'
 ```
 
 Run:
